@@ -1,13 +1,13 @@
----
+--- 
 author: p15geor3
-image_url: https://upload.wikimedia.org/wikipedia/commons/b/b5/Delux_M618_vertical_mouse.jpg
-title: Vertical-mouse
-caption: ' Thoughtfully sculpted to support your hand in an upright handshake posture that avoids forearm twisting '
-license_url: 'https://commons.wikimedia.org/wiki/File:Delux_M618_vertical_mouse.jpg'
-license_text: Wikimedia commons
-categories:
-  - Mouse
-  - input-device
-tags:
-  - Vertical-Mouse
+title: Vertical-Mouse 
+image_url: https://upload.wikimedia.org/wikipedia/commons/b/b5/Delux_M618_vertical_mouse.jpg  
+caption: ' Thoughtfully sculpted to support your hand in an upright handshake posture that avoids forearm twisting. ' 
+license_url: 'https://commons.wikimedia.org/wiki/File:Delux_M618_vertical_mouse.jpg' 
+license_text: Wikimedia Commons 
+categories: 
+  - Mouse 
+  - input-device 
+tags: 
+  - Vertical-Mouse 
 ---
